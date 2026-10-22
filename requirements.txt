@@ -60,7 +60,7 @@ g4f
 pypdf
 pytesseract
 pdf2image
-PyMuPDF
+#PyMuPDF
 
 # SYSTEM PACKAGES (not pip-installable) required by the voice-chat stack and
 # the portrait error card:
